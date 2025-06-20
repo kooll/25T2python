@@ -1,7 +1,7 @@
-# Think Python, 3rd edition
+# Think Python, 3rd edition (日本語訳）
 
+このプロジェクトは、次の本の翻訳プロジェクトです。
 Jupyter notebooks and other material for the 3rd edition of *Think Python: How to Think Like a Computer Scientist*
-
 by Allen B. Downey
 
 You can order print and electronic versions of *Think Python 3e* from 
@@ -9,4 +9,6 @@ You can order print and electronic versions of *Think Python 3e* from
 [Amazon](https://www.amazon.com/_/dp/1098155432?smid=ATVPDKIKX0DER&_encoding=UTF8&tag=oreilly20-20&_encoding=UTF8&tag=greenteapre01-20&linkCode=ur2&linkId=e2a529f94920295d27ec8a06e757dc7c&camp=1789&creative=9325).
 
 The home page for the book is at [Green Tea Press](http://thinkpython.com).
+
+津田塾大学図書館では、この本の電子版を、O'reilly for Higher Education の中で読めます。
 
